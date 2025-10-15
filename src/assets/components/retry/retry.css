@@ -1,0 +1,12 @@
+.retry-button {
+    width: 32px;
+    height: 32px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.retry-button:hover {
+    opacity: 0.7;
+}
