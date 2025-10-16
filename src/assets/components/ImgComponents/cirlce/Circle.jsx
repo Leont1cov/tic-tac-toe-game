@@ -1,8 +1,8 @@
+import "./circle.css";
+
 const Circle = () => {
     return (
-        <div>
-            <img className={"img"} src="../../../../../public/circle.png" alt="Circle" />
-        </div>
+        <i className="fa-regular fa-circle circle"></i>
     )
 }
 
